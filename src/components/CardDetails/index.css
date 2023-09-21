@@ -1,21 +1,24 @@
-.Container{
+.ContainerCardDetail{
     display: flex;
     flex-direction: row;
     border: 1px solid black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.5);
 }
 
 
-.ContainerImg{
+.ContainerImgCardDetail{
     display: flex;
     width: 100px;
     height: 100px;
 }
-.Img{
-    width: 100%;
-    height: 100%;
+.ImgCardDetail{
+    width: 100px;
+    height: 100px;
 }
 
-.ContainerResulm{
+.ContainerResulmCardDetail{
     padding-left: 1rem;
     display: flex;
     flex-direction: column;

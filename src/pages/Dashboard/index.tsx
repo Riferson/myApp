@@ -27,6 +27,7 @@ export let Dashboard:React.FC = () =>{
     
     return(
     <IonPage>
+        <IonText>Lista de Hardwares</IonText>
         {dados && dados.map((objeto:any,index:any)=>(
             <CardDetails key={index} Data={objeto} OnClick={handleComponentClick} />
         ))}

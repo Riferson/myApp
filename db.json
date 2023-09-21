@@ -2,7 +2,7 @@
     "dados": [
       {
         "NameProd": "Placa-Mãe ASUS ROG Strix Z690-E",
-        "UrlImage": "https://exemplo.com/imagem6.jpg",
+        "UrlImage": "https://cdn-hardstore.s3-sa-east-1.amazonaws.com/22123/1280x960/1.webp",
         "Telephone": "(11) 1234-5678",
         "description": "Placa-mãe para entusiastas de jogos.",
         "price": 279.99,
@@ -11,7 +11,7 @@
       },
       {
         "NameProd": "Teclado Mecânico Corsair K95 RGB",
-        "UrlImage": "https://exemplo.com/imagem7.jpg",
+        "UrlImage": "https://www.kabum.com.br/conteudo/descricao/112873/img/Imagem_01.jpg",
         "Telephone": "(22) 9876-5432",
         "description": "Teclado mecânico premium com retroiluminação RGB.",
         "price": 149.99,
@@ -20,7 +20,7 @@
       },
       {
         "NameProd": "Fone de Ouvido Sony WH-1000XM4",
-        "UrlImage": "https://exemplo.com/imagem8.jpg",
+        "UrlImage": "https://www.showmetech.com.br/wp-content/uploads//2020/08/00000IMG_00000_BURST20200730103228387_COVER-scaled-1920x1024.jpg",
         "Telephone": "(33) 5555-1234",
         "description": "Fones de ouvido com cancelamento de ruído.",
         "price": 199.99,
@@ -29,7 +29,7 @@
       },
       {
         "NameProd": "Impressora Laser HP Color LaserJet Pro MFP M281fdw",
-        "UrlImage": "https://exemplo.com/imagem9.jpg",
+        "UrlImage": "https://www.romapy.com/29525-large_default/impressora-hp-color-laserjet-pro-mfp-m281fdw-110v-iscf---t6b82a-bgj.jpg",
         "Telephone": "(44) 7777-4321",
         "description": "Impressora laser colorida de alta qualidade.",
         "price": 329.99,
@@ -38,7 +38,7 @@
       },
       {
         "NameProd": "Webcam Logitech C920 Pro",
-        "UrlImage": "https://exemplo.com/imagem10.jpg",
+        "UrlImage": "https://resource.logitech.com/w_800,c_lpad,ar_16:9,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/webcams/c920s/gallery/c920s-gallery-1.png?v=1",
         "Telephone": "(55) 9999-8765",
         "description": "Webcam de alta definição para videoconferências.",
         "price": 79.99,
@@ -46,49 +46,85 @@
         "SellerName": "WebComm Accessories"
       },
       {
-        "NameProd": "Placa-Mãe ASUS ROG Strix Z690-E",
-        "UrlImage": "https://exemplo.com/imagem6.jpg",
-        "Telephone": "(11) 1234-5678",
-        "description": "Placa-mãe para entusiastas de jogos.",
-        "price": 279.99,
-        "avaliation": 4,
-        "SellerName": "Gamer's Paradise Ltd."
+        "NameProd": "Mouse Gamer Logitech G Pro X",
+        "UrlImage": "https://exemplo.com/mouse.jpg",
+        "Telephone": "+1 (456) 789-0123",
+        "description": "Um mouse de alta precisão projetado para jogadores profissionais, com sensor HERO de 25.000 DPI.",
+        "price": 69.99,
+        "avaliation": 4.6,
+        "SellerName": "GameGear Store"
       },
       {
         "NameProd": "Teclado Mecânico Corsair K95 RGB",
-        "UrlImage": "https://exemplo.com/imagem7.jpg",
-        "Telephone": "(22) 9876-5432",
-        "description": "Teclado mecânico premium com retroiluminação RGB.",
-        "price": 149.99,
-        "avaliation": 5,
-        "SellerName": "TechGear Store"
+        "UrlImage": "https://exemplo.com/teclado.jpg",
+        "Telephone": "+1 (567) 890-1234",
+        "description": "Um teclado mecânico premium com iluminação RGB personalizável e teclas Cherry MX.",
+        "price": 179.99,
+        "avaliation": 4.8,
+        "SellerName": "TechBlast"
+      },
+      {
+        "NameProd": "SSD Samsung 1TB NVMe",
+        "UrlImage": "https://exemplo.com/ssd.jpg",
+        "Telephone": "+1 (678) 901-2345",
+        "description": "Um SSD de alta velocidade com capacidade de 1TB, ideal para melhorar o desempenho do seu PC.",
+        "price": 129.99,
+        "avaliation": 4.7,
+        "SellerName": "SuperSpeed Electronics"
+      },
+      {
+        "NameProd": "Câmera Canon EOS 5D Mark IV",
+        "UrlImage": "https://exemplo.com/camera.jpg",
+        "Telephone": "+1 (789) 012-3456",
+        "description": "Uma câmera DSLR profissional com sensor full-frame, 30.4 megapixels e gravação de vídeo em 4K.",
+        "price": 2499.99,
+        "avaliation": 4.9,
+        "SellerName": "FotoMaster"
       },
       {
         "NameProd": "Fone de Ouvido Sony WH-1000XM4",
-        "UrlImage": "https://exemplo.com/imagem8.jpg",
-        "Telephone": "(33) 5555-1234",
-        "description": "Fones de ouvido com cancelamento de ruído.",
+        "UrlImage": "https://exemplo.com/fone_de_ouvido.jpg",
+        "Telephone": "+1 (890) 123-4567",
+        "description": "Fones de ouvido com cancelamento de ruído líderes de mercado e qualidade de áudio excepcional.",
+        "price": 299.99,
+        "avaliation": 4.8,
+        "SellerName": "AudioTech Hub"
+      },
+      {
+        "NameProd": "Roteador Wi-Fi TP-Link Archer C4000",
+        "UrlImage": "https://exemplo.com/roteador.jpg",
+        "Telephone": "+1 (901) 234-5678",
+        "description": "Um roteador tri-band de alto desempenho com tecnologia Wi-Fi 6, ideal para redes domésticas.",
         "price": 199.99,
-        "avaliation": 4,
-        "SellerName": "SoundWaves Electronics"
+        "avaliation": 4.7,
+        "SellerName": "ConnectPro"
       },
       {
-        "NameProd": "Impressora Laser HP Color LaserJet Pro MFP M281fdw",
-        "UrlImage": "https://exemplo.com/imagem9.jpg",
-        "Telephone": "(44) 7777-4321",
-        "description": "Impressora laser colorida de alta qualidade.",
-        "price": 329.99,
-        "avaliation": 3,
-        "SellerName": "PrintTech Solutions"
+        "NameProd": "Placa de Vídeo GeForce RTX 3080",
+        "UrlImage": "https://exemplo.com/placa_video.jpg",
+        "Telephone": "+1 (123) 456-7890",
+        "description": "Uma placa de vídeo de alto desempenho da NVIDIA, ideal para jogos e edição de vídeo.",
+        "price": 799.99,
+        "avaliation": 4.8,
+        "SellerName": "Tech World"
       },
       {
-        "NameProd": "Webcam Logitech C920 Pro",
-        "UrlImage": "https://exemplo.com/imagem10.jpg",
-        "Telephone": "(55) 9999-8765",
-        "description": "Webcam de alta definição para videoconferências.",
-        "price": 79.99,
-        "avaliation": 5,
-        "SellerName": "WebComm Accessories"
+        "NameProd": "Notebook Dell XPS 15",
+        "UrlImage": "https://exemplo.com/notebook.jpg",
+        "Telephone": "+1 (234) 567-8901",
+        "description": "Um laptop premium com tela OLED de 15 polegadas, processador Intel Core i9 e placa de vídeo NVIDIA GTX 1650.",
+        "price": 1499.99,
+        "avaliation": 4.9,
+        "SellerName": "ElectroTech"
+      },
+      {
+        "NameProd": "Monitor LG 27GL83A-B",
+        "UrlImage": "https://exemplo.com/monitor.jpg",
+        "Telephone": "+1 (345) 678-9012",
+        "description": "Um monitor de 27 polegadas com resolução QHD, taxa de atualização de 144Hz e suporte para HDR.",
+        "price": 399.99,
+        "avaliation": 4.7,
+        "SellerName": "Digital Emporium"
       }
     ]
   }
