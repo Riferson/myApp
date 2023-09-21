@@ -1,0 +1,11 @@
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    border: solid 1px purple;
+}
+
+.ContainerHeader{
+    background-color: aqua;
+    border: solid 1px rgb(0, 128, 85);
+}

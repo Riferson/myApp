@@ -1,0 +1,94 @@
+{
+    "dados": [
+      {
+        "NameProd": "Placa-Mãe ASUS ROG Strix Z690-E",
+        "UrlImage": "https://exemplo.com/imagem6.jpg",
+        "Telephone": "(11) 1234-5678",
+        "description": "Placa-mãe para entusiastas de jogos.",
+        "price": 279.99,
+        "avaliation": 4,
+        "SellerName": "Gamer's Paradise Ltd."
+      },
+      {
+        "NameProd": "Teclado Mecânico Corsair K95 RGB",
+        "UrlImage": "https://exemplo.com/imagem7.jpg",
+        "Telephone": "(22) 9876-5432",
+        "description": "Teclado mecânico premium com retroiluminação RGB.",
+        "price": 149.99,
+        "avaliation": 5,
+        "SellerName": "TechGear Store"
+      },
+      {
+        "NameProd": "Fone de Ouvido Sony WH-1000XM4",
+        "UrlImage": "https://exemplo.com/imagem8.jpg",
+        "Telephone": "(33) 5555-1234",
+        "description": "Fones de ouvido com cancelamento de ruído.",
+        "price": 199.99,
+        "avaliation": 4,
+        "SellerName": "SoundWaves Electronics"
+      },
+      {
+        "NameProd": "Impressora Laser HP Color LaserJet Pro MFP M281fdw",
+        "UrlImage": "https://exemplo.com/imagem9.jpg",
+        "Telephone": "(44) 7777-4321",
+        "description": "Impressora laser colorida de alta qualidade.",
+        "price": 329.99,
+        "avaliation": 3,
+        "SellerName": "PrintTech Solutions"
+      },
+      {
+        "NameProd": "Webcam Logitech C920 Pro",
+        "UrlImage": "https://exemplo.com/imagem10.jpg",
+        "Telephone": "(55) 9999-8765",
+        "description": "Webcam de alta definição para videoconferências.",
+        "price": 79.99,
+        "avaliation": 5,
+        "SellerName": "WebComm Accessories"
+      },
+      {
+        "NameProd": "Placa-Mãe ASUS ROG Strix Z690-E",
+        "UrlImage": "https://exemplo.com/imagem6.jpg",
+        "Telephone": "(11) 1234-5678",
+        "description": "Placa-mãe para entusiastas de jogos.",
+        "price": 279.99,
+        "avaliation": 4,
+        "SellerName": "Gamer's Paradise Ltd."
+      },
+      {
+        "NameProd": "Teclado Mecânico Corsair K95 RGB",
+        "UrlImage": "https://exemplo.com/imagem7.jpg",
+        "Telephone": "(22) 9876-5432",
+        "description": "Teclado mecânico premium com retroiluminação RGB.",
+        "price": 149.99,
+        "avaliation": 5,
+        "SellerName": "TechGear Store"
+      },
+      {
+        "NameProd": "Fone de Ouvido Sony WH-1000XM4",
+        "UrlImage": "https://exemplo.com/imagem8.jpg",
+        "Telephone": "(33) 5555-1234",
+        "description": "Fones de ouvido com cancelamento de ruído.",
+        "price": 199.99,
+        "avaliation": 4,
+        "SellerName": "SoundWaves Electronics"
+      },
+      {
+        "NameProd": "Impressora Laser HP Color LaserJet Pro MFP M281fdw",
+        "UrlImage": "https://exemplo.com/imagem9.jpg",
+        "Telephone": "(44) 7777-4321",
+        "description": "Impressora laser colorida de alta qualidade.",
+        "price": 329.99,
+        "avaliation": 3,
+        "SellerName": "PrintTech Solutions"
+      },
+      {
+        "NameProd": "Webcam Logitech C920 Pro",
+        "UrlImage": "https://exemplo.com/imagem10.jpg",
+        "Telephone": "(55) 9999-8765",
+        "description": "Webcam de alta definição para videoconferências.",
+        "price": 79.99,
+        "avaliation": 5,
+        "SellerName": "WebComm Accessories"
+      }
+    ]
+  }
