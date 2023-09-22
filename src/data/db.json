@@ -1,0 +1,57 @@
+{
+    "dados": [
+      {
+        "NameProd": "Placa-Mãe ASUS ROG Strix Z690-E",
+        "UrlImage": "https://cdn-hardstore.s3-sa-east-1.amazonaws.com/22123/1280x960/1.webp",
+        "Telephone": "(11) 1234-5678",
+        "description": "Placa-mãe para entusiastas de jogos.",
+        "price": 279.99,
+        "avaliation": 4,
+        "SellerName": "Gamer's Paradise Ltd."
+      },
+      {
+        "NameProd": "Teclado Mecânico Corsair K95 RGB",
+        "UrlImage": "https://www.kabum.com.br/conteudo/descricao/112873/img/Imagem_01.jpg",
+        "Telephone": "(22) 9876-5432",
+        "description": "Teclado mecânico premium com retroiluminação RGB.",
+        "price": 149.99,
+        "avaliation": 5,
+        "SellerName": "TechGear Store"
+      },
+      {
+        "NameProd": "Fone de Ouvido Sony WH-1000XM4",
+        "UrlImage": "https://www.showmetech.com.br/wp-content/uploads//2020/08/00000IMG_00000_BURST20200730103228387_COVER-scaled-1920x1024.jpg",
+        "Telephone": "(33) 5555-1234",
+        "description": "Fones de ouvido com cancelamento de ruído.",
+        "price": 199.99,
+        "avaliation": 4,
+        "SellerName": "SoundWaves Electronics"
+      },
+      {
+        "NameProd": "Impressora Laser HP Color LaserJet Pro",
+        "UrlImage": "https://www.romapy.com/29525-large_default/impressora-hp-color-laserjet-pro-mfp-m281fdw-110v-iscf---t6b82a-bgj.jpg",
+        "Telephone": "(44) 7777-4321",
+        "description": "Impressora laser colorida de alta qualidade.",
+        "price": 329.99,
+        "avaliation": 3,
+        "SellerName": "PrintTech Solutions"
+      },
+      {
+        "NameProd": "Webcam Logitech C920 Pro",
+        "UrlImage": "https://resource.logitech.com/content/dam/logitech/en/products/video-conferencing/c920e/gallery-2.png",
+        "Telephone": "(55) 9999-8765",
+        "description": "Webcam de alta definição para videoconferências.",
+        "price": 79.99,
+        "avaliation": 5,
+        "SellerName": "WebComm Accessories"
+      },
+      {
+        "NameProd": "Mouse Gamer Logitech G Pro X",
+        "UrlImage": "https://www.oiplace.com.br/dw/image/v2/BJKN_PRD/on/demandware.static/-/Sites-mirakl/default/dw94c278d4/medium/41947cafea8e4088963234dfa9ed8503.jpg?sw=604&sh=604&bgcolor=FFFFFF",
+        "Telephone": "+1 (456) 789-0123",
+        "description": "Um mouse de alta precisão projetado para jogadores profissionais, com sensor HERO de 25.000 DPI.",
+        "price": 69.99,
+        "avaliation": 4.6,
+        "SellerName": "GameGear Store"
+      }
+    ]}

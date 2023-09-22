@@ -1,0 +1,16 @@
+.Header{
+    position: absolute;
+    width: 100%;
+    height: 46px;
+    background-color: green;
+    text-align: center;
+}
+
+.Itens{
+    margin-top: 20px;
+}
+
+.HeaderTitle{
+    font-size: 22px;
+    font-weight: 800;
+}

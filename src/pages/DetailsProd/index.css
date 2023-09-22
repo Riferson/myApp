@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 
 .ContainerDetailsProd{
     display: flex;
@@ -5,23 +10,24 @@
 }
 
 .ContainerHeaderDetailsProd{
-    background-color: aqua;
+    background-color: rgb(41, 136, 136);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 20px;
 }
 .ContainerIMGDetailsProd{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: solid 1px rgb(255, 0, 140);
     height: 200px;
 }
 .ImgDetailsProd{
     width: 300px;
     height: 200px;
     border: solid 1px rgb(245, 96, 9);
+    border-radius: 20px;
 }
 
 .ContainerTextDescriptionDetailsProd{
@@ -29,12 +35,16 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    padding: 10px;
+    gap: 10px;
+    font-weight: 700;
 }
 
 .ContainerDescriptionDetailsProd{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding: 20px;
 }
 
 .ContainerImgDescriptionDetailsProd{
@@ -52,11 +62,42 @@
 .ContainertestResulmDetailsProd{
     display: flex;
     flex-direction: column;
-  
+    gap: 10px 
 }
+
 .ContainerDescriptionResulmDetailsProd{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 1rem;
+}
+
+.ContainerDescriptionsDetailsProd{
+    padding: 20px;
+}
+
+.textDescription{
+    padding: 20px;
+    font-size: 24px;
+}
+
+ion-text{
+    font-size: 18px;
+}
+
+.descriptionTitle{
+    font-weight: 700;
+}
+
+.backButton{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding: 50px;
+}
+
+ion-icon{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(41, 136, 136);
+
 }

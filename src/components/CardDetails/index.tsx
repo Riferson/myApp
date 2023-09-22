@@ -1,4 +1,4 @@
-import { IonImg, IonPage, IonText } from "@ionic/react";
+import { IonContent, IonImg, IonPage, IonText } from "@ionic/react";
 import React from "react";
 import './index.css';
 import { useHistory } from 'react-router-dom';
@@ -36,13 +36,15 @@ export const CardDetails:React.FC<props> = ({Data,OnClick}:props) =>{
     }
 
     return(
-    <IonPage className="ContainerCardDetail" onClick={handleClick}>
+        <IonPage className="Item">
+        <IonPage className="ContainerCardDetail" onClick={handleClick}>
         <IonPage className="ContainerImgCardDetail">
             <img className="ImgCardDetail" src={Data?.UrlImage} alt="Imagem aleatoria"/>
         </IonPage>
         <IonPage className="ContainerResulmCardDetail">
             <IonText>{Data?.NameProd}</IonText>
             <IonText>{Data?.description}</IonText>
+        </IonPage>
         </IonPage>
     </IonPage>
     )
